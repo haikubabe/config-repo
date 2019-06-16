@@ -1,0 +1,5 @@
+# put application profile specific config here (application name: config-client) (profile name: prod)
+some:
+  property: profile specific value
+  other:
+    property: profile specific value
