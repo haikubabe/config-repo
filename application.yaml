@@ -1,5 +1,5 @@
 # put all global configuration here
 some:
-   property: global changed
+   property: global
    other:
-     property: global changed
+     property: global
