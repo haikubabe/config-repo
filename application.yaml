@@ -2,4 +2,4 @@
 some:
    property: global changed
    other:
-     property: global
+     property: global changed
