@@ -2,4 +2,4 @@
 some:
   property: profile specific value changed
   other:
-    property: profile specific value changed
+    property: profile specific value changed twice
